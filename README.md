@@ -2,9 +2,9 @@
 [![Github](https://img.shields.io/badge/mewpawee-000000?style=for-the-badge&logo=github)](https://github.com/mewpawee)
 [![LinkedIn](https://img.shields.io/badge/Pawee%20T.-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawee-tanti/)
 [![Gmail](https://img.shields.io/badge/pawee.tanti@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawee.tanti@gmail.com)
-# Pawee Tantivasdakarn
 
-A maker, an entrepreneur and blockchain enthusiast. 
+# Pawee Tantivasdakarn
+A maker, an entrepreneur, and a blockchain enthusiast with over 3 years of experience in blockchain full-stack development. He passionates about delivering valuable products to end-users and enjoy diving deep to understand complex topics.
 
 ## Experience
 ### Co-Founder, Lead Blockchain Engineer - _May 2022 - present_
@@ -18,12 +18,12 @@ A maker, an entrepreneur and blockchain enthusiast.
 - Implemented optimistic rollup on Bitkub Chain (Optimism fork)
 - Modified the codebase to initiate a hard fork and change the consensus from PoA to PoSA (Geth fork)
 - Installed and set up a Blockchain Monitoring system (Graylog, Grafana, Prometheus, InfluxDB, Telegraf, Terraform, Ansible, Huawei Cloud)
-- Investigated and reported the throttling on the Blockchain Infrastructure using stress tests (Locust)
+- Investigated and reported the throttling on the Blockchain Infrastructure using stress tests (Python, Locust)
 - Modified the Blockchain Explorer to support new features (Blockscout)
 
 ### Research Assistant - King Mongkut’s Institute of Technology Ladkrabang, _Part-time, Nov 2020 - Sep 2021_
 - Worked closely with stakeholders to develop a cold-chain logistics system based on IoT for pharmaceutical products.
-- Designed and implemented the backend and frontend. (Nuxt.js, GraphQL, and MongoDB)
+- Designed and implemented the backend and frontend. (Nuxt.js, Javascript, GraphQL, and MongoDB)
 
 ### Teaching Assistant - King Mongkut’s Institute of Technology Ladkrabang, _Part-time, 2018 - 2021_
 - Assisted in teaching Intelligence Device, Cyber Physical System, and IoT courses.
