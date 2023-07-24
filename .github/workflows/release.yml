@@ -16,11 +16,16 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
 
+      - name: Remove first line (PDF Download button)
+        run: sed -i '1d' README.md
+
       - name: Build PDF from README.md
         uses: BaileyJM02/markdown-to-pdf@v1.2.0
         with:
           input_path: README.md
           output_dir: out
+          theme: styles/custom.css
+          extend_default_theme: false
 
       - name: Rename the PDF
         run: cp out/README.pdf pawee_tanti_resume.pdf
