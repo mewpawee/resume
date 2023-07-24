@@ -8,13 +8,13 @@ A maker, an entrepreneur, and a blockchain enthusiast with over 3 years of exper
 
 ## Experience
 ### Co-Founder, Lead Blockchain Engineer - _May 2022 - present_
-- Designed, implemented, and deployed NillaConnect V1, the DeFi cross-chain aggregator (Next.js, TypeScript, Wagmi, Foundry, Solidity).
-- Created the CI for development (GitHub Actions, Husky, and Lefthook).
-- Utilized the Kanban concept to create tickets and delegate tasks within the team (Dework, Discord).
+- Designed, implemented,testing, and deployed NillaConnect V1, the DeFi cross-chain aggregator (Next.js, TypeScript, Wagmi, Vitest, Foundry, Solidity)
+- Created the CI for development (GitHub Actions, Husky, and Lefthook)
+- Planned and delegate tasks within the team (Kanban, Dework, Discord)
 
 ### Blockchain Engineer - Bitkub Blockchain Technology, _Oct 2021 - Aug 2022_
-- Spoke at The 1st Bitkub Chain Developer Meetup
-- Conducted Layer 2 research
+- Spoke at The 1st Bitkub Chain Developer Meetup.
+- Conducted Layer 2 research.
 - Implemented optimistic rollup on Bitkub Chain (Optimism fork)
 - Modified the codebase to initiate a hard fork and change the consensus from PoA to PoSA (Geth fork)
 - Installed and set up a Blockchain Monitoring system (Graylog, Grafana, Prometheus, InfluxDB, Telegraf, Terraform, Ansible, Huawei Cloud)
@@ -34,11 +34,11 @@ A maker, an entrepreneur, and a blockchain enthusiast with over 3 years of exper
 
 ### Internship - Department of Electrical and Computer Engineering, Carnegie Mellon University, _United States, Jun 2019 - Aug 2019_
 - Implemented a visualization for logistic transport to visualize the optimization of warehouse storage and daily transactions.
-- Deployed a testing environment for the development of a scalable blockchain system. (Bitcoin Full Node)
+- Deployed a testing environment for the development of a scalable blockchain system (Bitcoin Full Node)
 
 ### Internship - School of Computer Science and Engineering, Nanyang Technological University, _Singapore, Jun 2018 - Aug 2018_
-- Constructed a list of coordinates correlated with postal codes using the Google API.
-- Implemented a visualization for a Smart Energy Meter project based on a smart contract over a private blockchain.
+- Constructed a list of coordinates correlated with postal codes (Google API)
+- Implemented a visualization for a Smart Energy Meter project based on a smart contract over a private blockchain (Geth)
 
 ## Education 
 ### King Mongkut's Institute of Technology Ladkrabang, _2018 - 2021 (First Class Honors)_
