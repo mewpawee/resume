@@ -1,47 +1,65 @@
-[![](https://img.shields.io/badge/PDF-Download-1abc9c?style=for-the-badge)](https://github.com/sladkoff/resume/releases/latest/download/leonid_koftun_resume.pdf) &nbsp; [![](https://img.shields.io/badge/leonidkoftun-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonid-koftun/) &nbsp; [![](https://img.shields.io/badge/sladkovik-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sladkovik) &nbsp; [![](https://img.shields.io/badge/sladkoff2-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sladkoff2/)
+[![](https://img.shields.io/badge/Pawee%20T.-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawee-tanti/)
+[![](https://img.shields.io/badge/mewpawee-000000?style=for-the-badge&logo=github)](https://github.com/mewpawee)
+[![](https://img.shields.io/badge/pawee.tanti@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawee.tanti@gmail.com)
+# Pawee Tantivasdakarn
 
-# Leonid Koftun
+A maker and blockchain enthusiast.
 
-Software engineer and architect with 10 years of experience in building distributed cloud applications, 
-looking to deliver value to end-users and shape future-proof architectures.
+from Bangkok, Thailand
 
-[leonid.koftun@gmail.com](mailto:leonid.koftun@gmail.com) // from Munich, Bavaria // speaks English, German, Russian and French
+## Experience
 
-## Professional Experience
+### Co-Founder, Lead Engineer - _May 2022 - present_
+- Designed, Implemented and deployed a NillaConnect V1, the DeFi cross-chain aggregator (Next.js, Wagmi, Foundry)
+- Create the CI for the development (Github Actions, Husky)
 
-### Freelance Software Engineer - Kigana - _March 2021 - present_
+### Blockchain Engineer - Bitkub Blockchain Technology, _Oct 2021 - Aug 2022_
+- A Speaker at The 1st Bitkub Chain Developer Meetup
+- Layer 2 Research
+- Implemented optimistic rollup on Bitkub Chain (Optimism fork)
+- Modified codebase to begin a hard fork, and change the consensus from PoA to PoSA (Geth fork)
+- Install and setup a Blockchain Monitoring system (Graylog, Grafana, Prometheus, InfluxDB, Telegraf, Terraform, Ansible)
+- Investigated the throttle on the Blockchain using the Blockchain Monitoring system
+- Modified Blockchain Explorer to support new features (Blockscout)
 
-- Designed, implemented and launched an MVP for a cloud-based childcare management software (Next.js, NestJS, React Native, AWS Lambda, AWS DynamoDB, Kubernetes, Auth0, Stripe, Cypress)
-- Managed the product requirements, roadmap and priorities in close collaboration with stakeholders (Requirements Engineering, Product Management, Kanban)
+### Research Assistant - King Mongkut’s Institute of Technology Ladkrabang, _Nov 2020 - Sep 2021_
+- Worked closely with stakeholders to develop a Cold-chain logistics system based on IoT for Pharma Products.
+- Designed and implemented the GraphQL backend and frontend visualization. (Nuxt.js, Mongo DB)
 
-### Software Engineer - Device Insight GmbH, _Munich, December 2017 - present_
+### Techer Assistant - King Mongkut’s Institute of Technology Ladkrabang, _Part-time, 2018 - 2021_
+- Teacher Assistant for the following courses.
+  - Intelligence Device
+  - Cyber Physical System
+  - IoT
 
-- Delivered more than five Industrial IoT projects in the sectors: Automotive, Building Management and Energy Optimization.
-- Designed event-driven microservice architectures on the Azure Cloud (Azure Functions, Cosmos DB, NodeJS, Typescript, Azure Event Hubs, IaC, Kubernetes, Kafka, Cassandra, Kotlin, Serverless)
-- Worked closely with stakeholders, collecting, refining and documenting requirements for new IoT Systems (Requirements Engineering, Kanban)
-- Innovated deployment and development processes by introducing tools and methodologies (Flux CD, Renovate, Storybook, Durable Functions)
+## Internship
+### Monitoring Technology Co., Ltd., _Jun 2020 - Aug 2020_
+- Installed the environment monitoring and alerting system on the client sites.
+- Researched and PoC the integration of transactions from the on-market wireless monitoring devices with NB-IoT and LoRaWAN to a custom endpoint.
 
-### Software Developer - SUBSEQ.NET GmbH, _Munich, October 2013 - November 2017_
+### Department of Electrical and Computer Engineering, Carnegie Mellon University, _United States, Jun 2019 - Aug 2019_
+- Implemeted a visualization for Logistic Transport to visualize the optimization of the warehouse storage and daily transactions. 
+- Deployed a testing environment for the development of a scaling blockchain system.
 
-- Created, launched and maintained multiple web apps: “insta.vote” (online polls), “ipwatch.dog” (dynamic DNS), “nxt.is” (URL shortener) (Java, Spring Boot, Ebean ORM, Postgres, Vue JS)
-- Led the rewrite of the legacy Android app “fishpixl” and launched it successfully to the Google Play Store (React Native, Android, Redux)
-- Designed reusable modules for an internal framework, enabling rapid bootstrapping of new apps (Spring Boot, Postgres, Ebean ORM, Maven, Javascript)
-- Maintained the development infrastructure including Docker Cloud, ELK Stack, Prometheus, Grafana, Gitlab CE, Linux. 
+### School of Computer Science and Engineering, Nanyang Technological University, _Singapore, Jun 2018 - Aug 2018_
+- Constructed the list of the locations from the postal code (Google API)
+- Implemented a visualization for a Smart Energy Meter project based on a smart contract over a private blockchain.
 
 ## Education 
+### King Mongkut's Institute of Technology Ladkrabang, _2018 - 2021_
+B. Eng. Computer Innovation Engineering (1st Class Honors)
+- Full Scholorship for tution fee.
+ 
+### Lincoln Southeast High School, NE, United States, _Jul 2015 - May 2016_
+Exchange Student
 
-### Werner-von-Siemens Gymnasium, _Munich, July 2013_
+## Projects
+### Cyber Security Assessment Automated System
+Cooperation between CMKL and SEC, Automated Security Assessment System for the broker services; allow them to continue improving their system. I contributed to setting up the Kubernetes, automated the tools by Argo Workflow, authentication, front-end website, report generator, and some security assessment tools.
 
-Higher education entrance qualification / BAC (Final Grade: 2.7)
-
-### Ludwig-Maximilians-Universität, _Munich, September 2013 - August 2015_
-
-B. Sc. Computer Science (partial)
-
-### Wilhelm-Büchner-Fernhochschule, _September 2016 - 2021_
-
-B. Sc. Computer Science (partial)
-
+## Languages
+- English
+- Thai
+  
 ## Interests
-
-Weight lifting, gardening, pour art, hiking, swimming, 3D printing, DIY, cars, mental health, cooking, music, poker
+team sports, rock climbing, cooking, video games, art, music
