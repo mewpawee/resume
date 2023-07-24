@@ -1,6 +1,7 @@
-[![](https://img.shields.io/badge/Pawee%20T.-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawee-tanti/)
-[![](https://img.shields.io/badge/mewpawee-000000?style=for-the-badge&logo=github)](https://github.com/mewpawee)
-[![](https://img.shields.io/badge/pawee.tanti@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawee.tanti@gmail.com)
+[![PDF](https://img.shields.io/badge/PDF-Download-FF0000?style=for-the-badge)](https://github.com/mewpawee/resume/releases/latest/download/pawee_tanti_resume.pdf)
+[![Github](https://img.shields.io/badge/mewpawee-000000?style=for-the-badge&logo=github)](https://github.com/mewpawee)
+[![LinkedIn](https://img.shields.io/badge/Pawee%20T.-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawee-tanti/)
+[![Gmail](https://img.shields.io/badge/pawee.tanti@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawee.tanti@gmail.com)
 # Pawee Tantivasdakarn
 
 A maker and blockchain enthusiast.
