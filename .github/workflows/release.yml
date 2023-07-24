@@ -1,9 +1,12 @@
+name: Release with Asset
+
 on:
   push:
     tags:
       - '*'
 
-name: Upload Release Asset
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -12,32 +15,18 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v3
-      - name: Remove swag line
-        run: sed -i '1d' README.md
-      - name: Build PDF from Markdown
+
+      - name: Build PDF from README.md
         uses: BaileyJM02/markdown-to-pdf@v1.2.0
         with:
           input_path: README.md
           output_dir: out
-      - name: Rename pdf
-        run: cp out/README.pdf ./leonid_koftun_resume.pdf
-      - name: Create Release
+
+      - name: Rename the PDF
+        run: cp out/README.pdf pawee_tanti_resume.pdf
+
+      - name: Create a Release with the asset
         id: create_release
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: softprops/action-gh-release@v1
         with:
-          tag_name: ${{ github.ref }}
-          release_name: Release ${{ github.ref }}
-          draft: false
-          prerelease: false
-      - name: Upload Release Asset
-        id: upload-release-asset
-        uses: actions/upload-release-asset@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./leonid_koftun_resume.pdf
-          asset_name: leonid_koftun_resume.pdf
-          asset_content_type: application/pdf
+          files: pawee_tanti_resume.pdf
