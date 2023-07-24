@@ -42,7 +42,7 @@ A maker, an entrepreneur, and a blockchain enthusiast with over 3 years of exper
 
 ## Education 
 ### King Mongkut's Institute of Technology Ladkrabang, _2018 - 2021 (First Class Honors)_
-B. Eng. in Computer Innovation Engineering (Full Scholarship for tuition fee)
+B. Eng. in Computer Innovation Engineering (Scholarship for tuition fees)
 
 ### Lincoln Southeast High School, NE, United States, _Jul 2015 - May 2016_
 Exchange Student
