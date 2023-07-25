@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/pawee.tanti@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawee.tanti@gmail.com)
 
 # Pawee Tantivasdakarn
-A maker, an entrepreneur, and a blockchain enthusiast with over 3 years of experience in blockchain full-stack development. He passionates about delivering valuable products to end-users and enjoy diving deep to understand complex topics.
+A maker, an entrepreneur, and a blockchain enthusiast with over 2 years of experience in blockchain full-stack development. He passionates about delivering valuable products to end-users and enjoy diving deep to understand complex topics.
 
 ## Experience
 ### Co-Founder, Lead Blockchain Engineer - _May 2022 - present_
