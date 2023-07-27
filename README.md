@@ -16,7 +16,7 @@ A maker, an entrepreneur, and a blockchain enthusiast with over 2 years of exper
 - Spoke at The 1st Bitkub Chain Developer Meetup.
 - Conducted Layer 2 research.
 - Implemented optimistic rollup on Bitkub Chain (Optimism fork)
-- Modified the codebase to initiate a hard fork and change the consensus from PoA to PoSA (Geth fork)
+- Modified the codebase to initiate a hard fork and change the consensus from PoA to PoSA (Geth fork, Golang)
 - Installed and set up a Blockchain Monitoring system (Graylog, Grafana, Prometheus, InfluxDB, Telegraf, Terraform, Ansible, Huawei Cloud)
 - Investigated and reported the throttling on the Blockchain Infrastructure using stress tests (Python, Locust)
 - Modified the Blockchain Explorer to support new features (Blockscout)
