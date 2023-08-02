@@ -2,7 +2,7 @@
 [![Github](https://img.shields.io/badge/mewpawee-000000?style=for-the-badge&logo=github)](https://github.com/mewpawee)
 [![LinkedIn](https://img.shields.io/badge/Pawee%20T.-2867B2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawee-tanti/)
 [![Gmail](https://img.shields.io/badge/pawee.tanti@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawee.tanti@gmail.com)
-
+[![Telephone](https://img.shields.io/badge/Tel-+66_8_0083_6143-8A2BE2?style=for-the-badge)](tel:+66800836143)
 # Pawee Tantivasdakarn
 A maker, an entrepreneur, and a blockchain enthusiast with over 2 years of experience in blockchain full-stack development. He passionates about delivering valuable products to end-users and enjoy diving deep to understand complex topics.
 
