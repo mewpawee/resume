@@ -7,7 +7,7 @@
 A maker, an entrepreneur, and a blockchain enthusiast with over 2 years of experience in blockchain full-stack development. He passionates about delivering valuable products to end-users and enjoy diving deep to understand complex topics.
 
 ## Experience
-### Core team, Lead Blockchain Engineer - _May 2022 - present_
+### Co-founder, Lead Blockchain Engineer - _May 2022 - present_
 - Designed, implemented,testing, and deployed NillaConnect V1, the DeFi cross-chain aggregator (Next.js, TypeScript, Wagmi, Vitest, Foundry, Solidity, LI.FI - SDK, Openzeppelin Library)
 - Created the CI for development (GitHub Actions, Husky, and Lefthook)
 - Planned and delegate tasks within the team (Kanban, Dework, Discord)
