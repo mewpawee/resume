@@ -12,6 +12,12 @@ A maker, an entrepreneur, and a blockchain enthusiast with over 2 years of exper
 - Created the CI for development (GitHub Actions, Husky, and Lefthook)
 - Planned and delegate tasks within the team (Kanban, Dework, Discord)
 
+### IT support - MMG Services & Supply co.,ltd., _Part-time, 2021 - present_
+- Setup WireGuard VPN for internal company network.
+- Manage scripts for backup the servers and services.
+- Setup a CRM for the company.
+- Manage company website.
+
 ### Blockchain Engineer - Bitkub Blockchain Technology, _Oct 2021 - Aug 2022_
 - Spoke at The 1st Bitkub Chain Developer Meetup.
 - Conducted Layer 2 research.
