@@ -13,6 +13,7 @@ A maker, an entrepreneur, and a blockchain enthusiast with over 2 years of exper
 - Planned and delegate tasks within the team (Kanban, Dework, Discord)
 
 ### IT support - MMG Services & Supply co.,ltd., _Part-time, 2021 - present_
+- Migrate services from the old server.
 - Setup WireGuard VPN for internal company network.
 - Manage scripts for backup the servers and services.
 - Setup a CRM for the company.
