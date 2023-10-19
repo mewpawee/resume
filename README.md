@@ -9,16 +9,16 @@ A maker, an entrepreneur, and a blockchain enthusiast with over 2 years of exper
 ## Experience
 ### Blockchain Engineer - Stella - _Aug 2023 - present_
 
-### Co-founder, Lead Engineer - NillaConnect, _May 2022 - Aug 2023_
-- Designed, implemented, tested, and deployed NillaConnect V1, the DeFi cross-chain aggregator (Next.js, TypeScript, Wagmi, Vitest, Foundry, Solidity, LI.FI - SDK, and Openzeppelin Library)
-- Created the CI for development (GitHub Actions, Husky, and Lefthook)
-- Planned and delegate tasks within the team (Kanban, Dework, Discord)
-
 ### IT support - MMG Services & Supply co.,ltd., _Part-time, 2021 - present_
 - Migrate services from the old server.
 - Setup WireGuard VPN for internal company network.
 - Manage scripts for backup the servers and services.
 - Setup a CRM for the company.
+
+### Co-founder, Lead Engineer - NillaConnect, _May 2022 - Aug 2023_
+- Designed, implemented, tested, and deployed NillaConnect V1, the DeFi cross-chain aggregator (Next.js, TypeScript, Wagmi, Vitest, Foundry, Solidity, LI.FI - SDK, and Openzeppelin Library)
+- Created the CI for development (GitHub Actions, Husky, and Lefthook)
+- Planned and delegate tasks within the team (Kanban, Dework, Discord)
 
 ### Blockchain Engineer - Bitkub Blockchain Technology, _Oct 2021 - Aug 2022_
 - Spoke at The 1st Bitkub Chain Developer Meetup.
