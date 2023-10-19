@@ -27,7 +27,7 @@ A maker, an entrepreneur, and a blockchain enthusiast with over 2 years of exper
 - Modified the codebase to initiate a hard fork and change the consensus from PoA to PoSA (Geth fork, Golang)
 - Installed and set up a Blockchain Monitoring system (Graylog, Grafana, Prometheus, InfluxDB, Telegraf, Terraform, Ansible, Huawei Cloud)
 - Investigated and reported the throttling on the Blockchain Infrastructure using stress tests (Python, Locust)
-- Modified the Blockchain Explorer to support new features (Blockscout)
+- Modified the Blockchain Explorer to support new features (Elixir, Javascript, Blockscout)
 
 ### Research Assistant - King Mongkut’s Institute of Technology Ladkrabang, _Part-time, Nov 2020 - Sep 2021_
 - Worked closely with stakeholders to develop a cold-chain logistics system based on IoT for pharmaceutical products.
