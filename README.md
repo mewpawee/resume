@@ -36,7 +36,7 @@ A maker, an entrepreneur, and a blockchain enthusiast with over 2 years of exper
 ### Teaching Assistant - King Mongkut’s Institute of Technology Ladkrabang, _Part-time, 2018 - 2021_
 - Assisted in teaching Intelligence Device, Cyber Physical System, and IoT courses.
 
-### Internship - Monitoring Technology Co., Ltd., _Jun 2020 - Aug 2020_
+### Internship - [Monitoring Technology Co., Ltd.](https://www.monitoringtechnology.co.th/), _Jun 2020 - Aug 2020_
 - Installed the environment monitoring and alerting system at client sites.
 - Researched and conducted proof of concept for integrating transactions from on-market wireless monitoring devices with NB-IoT and LoRaWAN to the user endpoint.
 
