@@ -7,7 +7,7 @@
 A maker, an entrepreneur, and a blockchain enthusiast with over 2 years of experience in blockchain full-stack development. He passionates about delivering valuable products to end-users and enjoy diving deep to understand complex topics.
 
 ## Experience
-### Blockchain Engineer - [Alpha Innovations Lab](https://alphaventuredao.io/) - _Aug 2023 - present_
+### Blockchain Engineer - [Alpha Innovations Lab](https://alphainnovationslab.io/) - _Aug 2023 - present_
 
 ### IT support - MMG Services & Supply co.,ltd., _Part-time, 2021 - present_
 - Migrate services from the old server.
