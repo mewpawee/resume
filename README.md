@@ -58,6 +58,10 @@ B. Eng. in Computer Innovation Engineering (Scholarship for tuition fees)
 ### Lincoln Southeast High School, NE, United States, _Jul 2015 - May 2016_
 Exchange Student
 
+## Awards
+Zircuit - [Best use of EIP-7702](https://www.zircuit.com/blog/zircuit-at-eth-global-taipei-2025-the-year-of-ai-eip-7702)
+- Participated in the ETHGlobal Taipei hackathon alongside over 800 attendees. Our project, Crowdera—a privacy-first donation platform—won an award from Zircuit.
+
 ## Projects
 ### Cyber Security Assessment Automated System
 Cooperation between CMKL and SEC, an automated security assessment system for broker services, allowing them to continuously improve their system.
