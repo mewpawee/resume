@@ -8,6 +8,9 @@ A maker, an entrepreneur, and a blockchain enthusiast with over 2 years of exper
 
 ## Experience
 ### Blockchain Engineer - [Alpha Innovations Lab](https://alphainnovationslab.io/) - _Aug 2023 - present_
+- Developed an AI-powered DeFi chatbot and "prompt-to-DeFi" interface using LangChain.
+- Integrated new protocols into the lending platform via EVM-compatible smart contracts.
+- Architected a robust backend API utilizing TypeScript and Viem for seamless blockchain interaction.
 
 ### IT support - MMG Services & Supply co.,ltd., _Part-time, 2021 - present_
 - Migrate services from the old server.
