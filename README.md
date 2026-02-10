@@ -59,11 +59,11 @@ B. Eng. in Computer Innovation Engineering (Scholarship for tuition fees)
 Exchange Student
 
 ## Awards
-Zircuit - [Best use of EIP-7702](https://www.zircuit.com/blog/zircuit-at-eth-global-taipei-2025-the-year-of-ai-eip-7702)
-- Participated in the ETHGlobal Taipei hackathon alongside over 800 attendees. Our project, Crowdera—a privacy-first donation platform—won an award from Zircuit.
-
+[Zircuit - Best use of EIP-7702](https://www.zircuit.com/blog/zircuit-at-eth-global-taipei-2025-the-year-of-ai-eip-7702)
+- Won a Zircuit award at ETHGlobal Taipei (800+ attendees) for Crowdera, a privacy-first donation platform.
+  
 ## Projects
-### Cyber Security Assessment Automated System
+### [Cyber Security Assessment Automated System](https://opacimages.lib.kmitl.ac.th/medias/b00290020/Nattha%20Siriboon.pdf)
 Cooperation between CMKL and SEC, an automated security assessment system for broker services, allowing them to continuously improve their system.
 - Implemented dictionary attack using assessment tools for port and directory scanning (Nmap, Dirb, Hydra, Selenium, Linux Commands)
 - Implemented OAuth authentication and frontend website (Keycloak, Nuxt.js)
